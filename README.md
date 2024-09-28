@@ -46,3 +46,5 @@ Os tempos simulados são exibidos junto com o nome das corridas para facilitar a
 A função plot_limit_derivative é chamada para plotar os gráficos da função dos tempos e da derivada com base nos tempos simulados.
 5. Execução do Programa
 A função main() é executada apenas se o script for executado diretamente, permitindo que o usuário forneça a temporada de interesse e visualize as informações e gráficos correspondentes.
+# Link do video
+https://youtu.be/4lJdfKFwyqY
